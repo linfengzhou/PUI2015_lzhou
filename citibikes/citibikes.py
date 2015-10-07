@@ -14,7 +14,7 @@ data = pd.read_csv("201502-citibike-tripdata.csv")
 ## remove outliers
 
 
-data[(np.abs(stats.zscore(data)) < 3).all(axis=1)]
+###data[(np.abs(stats.zscore(data)) < 3).all(axis=1)]
 
 
 ## explore data
