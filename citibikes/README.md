@@ -1,5 +1,7 @@
 ##PUI HW3 Assignment3 
 All my contributions are in Version 2.0. 
+Data: Feb.2015:
+https://s3.amazonaws.com/tripdata/201502-citibike-tripdata.zip
 
 ###Version 3.0 
 - add t-test diagnosis
