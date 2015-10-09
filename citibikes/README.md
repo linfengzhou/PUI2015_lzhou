@@ -1,4 +1,11 @@
 ##PUI HW3 Assignment3 
+All my contributions are in Version 2.0. 
+
+###Version 3.0 
+- add t-test diagnosis
+- add shapiro test diagnosis
+- add brown-mood median test diagnosis
+
 
 ###Version 2.0 (Hw3Ass3.ipynb)
 - revise Yining's work (idea, hypothesis, t-test description)
