@@ -1,0 +1,53 @@
+reviews were good but did not address all aspects 9/10
+
+NOTES ON YOUR PLOT
+===================
+
+typical plot in finance: complies to tufte's idea of small multiples
+
+y labels should be spelled out, not a variable name with an underscore
+
+axis ration is questionable as the spikiness of the data is enhanced
+
+NOT color blind friently: 10% of man cannot read your plot
+
+
+NOTES ON YOUR PLOT THE PLOTS YOU REVIEWED
+===========================================
+
+
+jml1023
+============
+
+unusual but nice location of the legends in two different spots,
+
+nice proportions, appropriate to display the data without getting distracted by empty space
+
+labels too small
+
+not robust to color blindness
+
+
+
+
+mu529
+============
+
+interesting plot: the choice of plotting with small points allows the structure in the data to be seen
+
+robust to color blindness
+
+the three default dots in the legend should be changed to 1 as they are redudnant
+
+
+
+edl268
+============
+
+thick lines are not neessary and cause ambiguity when thy overlab
+
+the datapoints are sparse: the plot could be compressed on the x axisand this would aid comparison
+
+tick labels are ont he small side, but not terribly small 
+
+color blindeness compliant
